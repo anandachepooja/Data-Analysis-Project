@@ -1,2 +1,2 @@
 # Data-Analysis-Project
-Kiva Project Data Anlysis
+Kiva Project Data Analysis
